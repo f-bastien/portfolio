@@ -1452,7 +1452,11 @@ footer {
   padding: 25px 0;
   background: #0062d3;
 }
-
+footer .fixed {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
 footer .copyright {
   margin-bottom: 0.3rem;
 }
