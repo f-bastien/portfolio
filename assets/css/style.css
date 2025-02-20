@@ -1452,7 +1452,7 @@ footer {
   padding: 25px 0;
   background: #0062d3;
 }
-footer .fixed {
+footer .fixed-footer {
   position: absolute;
   bottom: 0;
   width: 100%;
